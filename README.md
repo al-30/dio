@@ -1,2 +1,2 @@
-# dio
+# DIO
 DIO platform exercise repository
